@@ -1,0 +1,7 @@
+/**
+悠哉字体 免费可商用字体
+**/
+@font-face {
+    font-family: "youzai";
+    src: url('yz.woff2') format("woff2");
+}
