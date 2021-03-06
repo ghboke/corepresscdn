@@ -4,4 +4,5 @@
 @font-face {
     font-family: "zkklt";
     src: url('zkklt.woff2') format("woff2");
+    font-display: swap;
 }

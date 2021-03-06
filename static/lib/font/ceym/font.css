@@ -4,4 +4,5 @@
 @font-face {
     font-family: "ceym";
     src: url('ceym.woff2') format("woff2");
+    font-display: swap;
 }
