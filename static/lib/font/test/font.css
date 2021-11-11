@@ -1,5 +1,5 @@
 @font-face {
     font-family: "test";
-    src: url('test.woff2') format("woff2"),url('test.ttf') format("ttf");
+    src: url('test.ttf') format("ttf"),url('test.woff2') format("woff2")
     font-display: swap;
 }
