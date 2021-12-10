@@ -1,0 +1,8 @@
+/**
+HarmonyOS
+**/
+@font-face {
+    font-family: "HarmonyOS_Sans_SC_Medium";
+    src: url('HarmonyOS_Sans_SC_Medium.woff2') format("woff2");
+    font-display: swap;
+}
